@@ -80,7 +80,3 @@ The dataset `deliverytime.txt` includes delivery partner details, delivery locat
 - Improve customer satisfaction
 - Manage delivery resources better
 - Enhance food logistics efficiency
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
